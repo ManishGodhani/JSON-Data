@@ -3,35 +3,156 @@
     "AllAppsDetail" :
     [
       {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fstatussaver.png?alt=media&token=4f93f823-eed3-4ef1-bdbf-8e5a7772325f",
+        "appLink": "https://play.google.com/store/apps/details?id=status.attitudestatus",
+        "appName": "Status Saver"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fvistatus.png?alt=media&token=34ffa385-12f5-4b08-b768-8e75da190b9a",
+        "appLink": "https://play.google.com/store/apps/details?id=status.attitudestatus",
+        "appName": "Video Status"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fphototstatus.png?alt=media&token=45a17798-b2bd-4829-b100-4384d718c507",
+        "appLink": "https://play.google.com/store/apps/details?id=status.attitudestatus",
+        "appName": "Photo Pe Status likhe"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fstickermakerl.png?alt=media&token=4b432199-935e-40be-a1d9-3726ec8f95b2",
+        "appLink": "https://play.google.com/store/apps/details?id=status.attitudestatus",
+        "appName": "Sticker Maker"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fcalendars.png?alt=media&token=4def71c9-38df-422e-ac42-5fd8040c1fc7",
+        "appLink": "https://play.google.com/store/apps/details?id=status.attitudestatus",
+        "appName": "Calendar Photo Frame"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fwasticker.png?alt=media&token=c64eeceb-c538-4200-a3dc-4fb980b976cc",
+        "appLink": "https://play.google.com/store/apps/details?id=status.attitudestatus",
+        "appName": "Whatsapp Sticker"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fshayari.png?alt=media&token=51be4a4b-df8e-4c88-af0c-4f88b30ad94b",
+        "appLink": "",
+        "appName": "Shayari"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Findianplayer.png?alt=media&token=c0a75bea-fe69-4904-a34b-66ba15c93d54",
+        "appLink": "",
+        "appName": "Indian Player"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fhdplayer.png?alt=media&token=e01ab0b4-6442-4d1a-b2c5-f35cb0a59ef2",
+        "appLink": "",
+        "appName": "Video Player"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Floveimage.png?alt=media&token=795b9de6-56b0-423f-995b-8e180c041082",
+        "appLink": "",
+        "appName": "Love Images"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fletters.png?alt=media&token=ccd74e28-eaf4-462f-b70d-1d270630744e",
+        "appLink": "",
+        "appName": "Letter Wallpaper"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fmorningsti.png?alt=media&token=0a0f4e97-b151-49b8-bded-36246dee8630",
+        "appLink": "",
+        "appName": "Morning Sticker"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fmahadevframe.png?alt=media&token=379f52b6-a3b2-4a2a-bf18-daaa95f78917",
+        "appLink": "",
+        "appName": "Mahadev Frame"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fsadshayari.png?alt=media&token=824c9b65-dbed-4c65-be71-96b35414a631",
+        "appLink": "",
+        "appName": "Sad Shayari"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Framdevpeerimage.png?alt=media&token=fc4f2e10-f7b6-4104-876e-569aa6996b4f",
+        "appLink": "",
+        "appName": "Ramdev Peer Images"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fbabyeditor.png?alt=media&token=265089f7-d763-427a-b075-c45be25359b7",
+        "appLink": "",
+        "appName": "Baby Photo Editor"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fbabyframe.png?alt=media&token=9f4c8bd7-4da9-4d46-8614-ea164d98fd1f",
+        "appLink": "",
+        "appName": "Baby Photo Frame"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fgodsticker.png?alt=media&token=80bc5447-1208-46d4-b070-d942aa4cd0ca",
+        "appLink": "",
+        "appName": "God Sticker"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Flovesmsl.png?alt=media&token=fa83b700-7c42-46a9-9635-957e4a82b300",
+        "appLink": "",
+        "appName": "Love SMS"
+      },
+      {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fattitudestatus.png?alt=media&token=670b83f3-e0e0-4d6b-88f3-7de74c8ea88f",
-        "appLink": "https://play.google.com/store/apps/details?id=status.attitudestatus",
+        "appLink": "",
         "appName": "Attitude Status"
       },
       {
-        "imageUrl":"https://moodle.htwchur.ch/pluginfile.php/124614/mod_page/content/4/example.jpg",
-        "appLink": "https://play.google.com/store/apps/details?id=status.attitudestatus",
-        "appName": "Attitude Status"
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fnaturewallpaper.png?alt=media&token=9446a62a-154e-4283-a358-021b5cd5d736",
+        "appLink": "",
+        "appName": "Nature Wallpaper"
       },
       {
-        "imageUrl":"https://moodle.htwchur.ch/pluginfile.php/124614/mod_page/content/4/example.jpg",
-        "appLink": "https://play.google.com/store/apps/details?id=status.attitudestatus",
-        "appName": "Attitude Status"
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fphotoshayari.png?alt=media&token=83477f09-22d8-4dcb-a89a-691985ebed31",
+        "appLink": "",
+        "appName": "Photo Per Shayari"
       },
       {
-        "imageUrl":"https://moodle.htwchur.ch/pluginfile.php/124614/mod_page/content/4/example.jpg",
-        "appLink": "https://play.google.com/store/apps/details?id=status.attitudestatus",
-        "appName": "Attitude Status"
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Findianflag.png?alt=media&token=83146bce-20df-4c3f-a9c3-fa477c136bab",
+        "appLink": "",
+        "appName": "Indian Flag Frame"
       },
       {
-        "imageUrl":"https://moodle.htwchur.ch/pluginfile.php/124614/mod_page/content/4/example.jpg",
-        "appLink": "https://play.google.com/store/apps/details?id=status.attitudestatus",
-        "appName": "Attitude Status"
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fmitronstatus.png?alt=media&token=22cdfd9c-cdde-49b7-9d0b-86a2f1559f85",
+        "appLink": "",
+        "appName": "Mitron Video Status"
       },
       {
-        "imageUrl":"https://moodle.htwchur.ch/pluginfile.php/124614/mod_page/content/4/example.jpg",
-        "appLink": "https://play.google.com/store/apps/details?id=status.attitudestatus",
-        "appName": "Attitude Status"
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fsad.png?alt=media&token=3c2424c3-25c4-4f47-b820-635a9603a264",
+        "appLink": "",
+        "appName": "Sad Status"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fshayaristick.png?alt=media&token=c57493b6-0607-4e88-90b5-c4d60c754c54",
+        "appLink": "",
+        "appName": "shayari Sticker"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fstatusking.png?alt=media&token=ba670ca5-fdbb-42bd-9651-5c4af11a3e3f",
+        "appLink": "",
+        "appName": "Status King"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fsummerframe.png?alt=media&token=3f162c20-dc22-41b8-adb5-3edcd8884e2b",
+        "appLink": "",
+        "appName": "Summer Photo Frame"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fgodshayari.png?alt=media&token=7fae1763-76c2-42d4-bd2f-26c552ad0059",
+        "appLink": "",
+        "appName": "God Shayari"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fgujcal.png?alt=media&token=50636409-9c13-4804-b1e7-b3eeb0c6fb30",
+        "appLink": "",
+        "appName": "Gujarati Calendar"
       }
+     
     ]
   }
 
