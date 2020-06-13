@@ -151,6 +151,51 @@
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fgujcal.png?alt=media&token=50636409-9c13-4804-b1e7-b3eeb0c6fb30",
         "appLink": "https://play.google.com/store/apps/details?id=secure.newyear.calender",
         "appName": "Gujarati Calendar"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fbirthdayframe.png?alt=media&token=874ab8a8-c297-4057-a166-43f611cfa5d6",
+        "appLink": "https://play.google.com/store/apps/details?id=happy.birthday.wishes.photoframes",
+        "appName": "Birthday Photo Frame"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Ftotokvideo.png?alt=media&token=18b184cf-1014-4ac7-ba97-b1cc7ea421d2",
+        "appLink": "https://play.google.com/store/apps/details?id=free.tuktok.videocall.freetotokhdvideocall",
+        "appName": "To Tok Video Call Guide"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Ffriendsstatus.png?alt=media&token=f5024e84-f75b-44b6-8441-c63c8df65947",
+        "appLink": "https://play.google.com/store/apps/details?id=status.friendsstatus",
+        "appName": "Friends Status"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fmitronmaker.png?alt=media&token=596d8236-aecd-438f-8bfe-6ec363a5ded0",
+        "appLink": "https://play.google.com/store/apps/details?id=com.mitron.videomaker",
+        "appName": "Mitron Video Maker"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fnewjokes.png?alt=media&token=0dee8b8b-cee0-479f-bdc9-3dcb893bc569",
+        "appLink": "https://play.google.com/store/apps/details?id=shayari.funny.newhindi.jokes",
+        "appName": "New Hindi Jokes"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Flovestatus.png?alt=media&token=a32defe7-34d6-4cb6-b216-d04f224a4843",
+        "appLink": "https://play.google.com/store/apps/details?id=status.lovestatus",
+        "appName": "Love Status"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fphotocollage.png?alt=media&token=1da60c80-26ec-4d0e-9b07-bfb141358f0b",
+        "appLink": "https://play.google.com/store/apps/details?id=com.pipphotogrid.photocollages",
+        "appName": "Photo Collage"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fgardenwallpaper.png?alt=media&token=76dd3c7c-defd-4c25-b121-433de6febd8f",
+        "appLink": "https://play.google.com/store/apps/details?id=com.hdgarden.freewallpaper",
+        "appName": "Garden Wallpaper"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Flovequotes.png?alt=media&token=0548ed81-881b-42a9-9704-23fccfd1b3a7",
+        "appLink": "https://play.google.com/store/apps/details?id=com.lovequotes.quotesimagesstatus",
+        "appName": "Love Quotes Images"
       }
      
     ]
