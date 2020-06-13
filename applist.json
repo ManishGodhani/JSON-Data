@@ -3,7 +3,7 @@
     "AllAppsDetail" :
     [
       {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fsmall%2Fsaver.png?alt=media&token=a1aad33e-66a2-45f3-b39b-16f6c92daca2",
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fstatussaver.png?alt=media&token=4f93f823-eed3-4ef1-bdbf-8e5a7772325f",
         "appLink": "https://play.google.com/store/apps/details?id=com.statusdp.whatsappstatussaver",
         "appName": "Whatsapp Status Saver"
       },
@@ -98,7 +98,7 @@
         "appName": "Love SMS"
       },
       {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fsmall%2Fatti.png?alt=media&token=01f82201-b786-42f4-b7ea-fbb87042fbf7",
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fattitudestatus.png?alt=media&token=670b83f3-e0e0-4d6b-88f3-7de74c8ea88f",
         "appLink": "https://play.google.com/store/apps/details?id=status.attitudestatus",
         "appName": "Attitude Status"
       },
