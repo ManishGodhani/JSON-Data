@@ -3,29 +3,9 @@
     "AllAppsDetail" :
     [
       {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fstatussaver.png?alt=media&token=4f93f823-eed3-4ef1-bdbf-8e5a7772325f",
-        "appLink": "https://play.google.com/store/apps/details?id=com.statusdp.whatsappstatussaver",
-        "appName": "Whatsapp Status Saver"
-      },
-      {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fvistatus.png?alt=media&token=34ffa385-12f5-4b08-b768-8e75da190b9a",
-        "appLink": "https://play.google.com/store/apps/details?id=shayaridp.videostatus.fullscreen",
-        "appName": "Whatsapp Video Status"
-      },
-      {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fphototstatus.png?alt=media&token=45a17798-b2bd-4829-b100-4384d718c507",
-        "appLink": "https://play.google.com/store/apps/details?id=statusimages.makephotostatus",
-        "appName": "Photo Pe Status likhe"
-      },
-      {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fstickermakerl.png?alt=media&token=4b432199-935e-40be-a1d9-3726ec8f95b2",
-        "appLink": "https://play.google.com/store/apps/details?id=com.wastickerapps.stickermakerapps",
-        "appName": "Whatsapp Sticker Maker"
-      },
-      {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fcalendars.png?alt=media&token=4def71c9-38df-422e-ac42-5fd8040c1fc7",
-        "appLink": "https://play.google.com/store/apps/details?id=statusdp.calendar.photo.frame",
-        "appName": "Calendar Photo Frame"
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fmorningsti.png?alt=media&token=0a0f4e97-b151-49b8-bded-36246dee8630",
+        "appLink": "https://play.google.com/store/apps/details?id=com.wastickerapps.goodmorningsticker",
+        "appName": "Morning Sticker"
       },
       {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fwasticker.png?alt=media&token=c64eeceb-c538-4200-a3dc-4fb980b976cc",
@@ -33,9 +13,14 @@
         "appName": "Whatsapp Sticker"
       },
       {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fshayari.png?alt=media&token=51be4a4b-df8e-4c88-af0c-4f88b30ad94b",
-        "appLink": "https://play.google.com/store/apps/details?id=shayaristatus.allinonestatus",
-        "appName": "Shayari"
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fphototstatus.png?alt=media&token=45a17798-b2bd-4829-b100-4384d718c507",
+        "appLink": "https://play.google.com/store/apps/details?id=statusimages.makephotostatus",
+        "appName": "Photo Pe Status likhe"
+      },
+      {
+        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fcalendars.png?alt=media&token=4def71c9-38df-422e-ac42-5fd8040c1fc7",
+        "appLink": "https://play.google.com/store/apps/details?id=statusdp.calendar.photo.frame",
+        "appName": "Calendar Photo Frame"
       },
       {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Findianplayer.png?alt=media&token=c0a75bea-fe69-4904-a34b-66ba15c93d54",
@@ -56,11 +41,6 @@
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fletters.png?alt=media&token=ccd74e28-eaf4-462f-b70d-1d270630744e",
         "appLink": "https://play.google.com/store/apps/details?id=com.wallpaper.lettertext",
         "appName": "Letter Wallpaper"
-      },
-      {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fmorningsti.png?alt=media&token=0a0f4e97-b151-49b8-bded-36246dee8630",
-        "appLink": "https://play.google.com/store/apps/details?id=com.wastickerapps.goodmorningsticker",
-        "appName": "Morning Sticker"
       },
       {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fmahadevframe.png?alt=media&token=379f52b6-a3b2-4a2a-bf18-daaa95f78917",
@@ -93,11 +73,6 @@
         "appName": "God Sticker"
       },
       {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Flovesmsl.png?alt=media&token=fa83b700-7c42-46a9-9635-957e4a82b300",
-        "appLink": "https://play.google.com/store/apps/details?id=mitronstatus.whatsappstatus.wishessms.loveshayarisms",
-        "appName": "Love SMS"
-      },
-      {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fattitudestatus.png?alt=media&token=670b83f3-e0e0-4d6b-88f3-7de74c8ea88f",
         "appLink": "https://play.google.com/store/apps/details?id=status.attitudestatus",
         "appName": "Attitude Status"
@@ -108,19 +83,9 @@
         "appName": "Nature Wallpaper"
       },
       {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fphotoshayari.png?alt=media&token=83477f09-22d8-4dcb-a89a-691985ebed31",
-        "appLink": "https://play.google.com/store/apps/details?id=shayaristatus.textonphoto",
-        "appName": "Photo Per Shayari"
-      },
-      {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Findianflag.png?alt=media&token=83146bce-20df-4c3f-a9c3-fa477c136bab",
         "appLink": "https://play.google.com/store/apps/details?id=statusdp.flagtextletter.indianphoto.frame",
         "appName": "Indian Flag Frame"
-      },
-      {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fmitronstatus.png?alt=media&token=22cdfd9c-cdde-49b7-9d0b-86a2f1559f85",
-        "appLink": "https://play.google.com/store/apps/details?id=videostatus.music.mitronvideomaker",
-        "appName": "Mitron Video Status"
       },
       {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fsad.png?alt=media&token=3c2424c3-25c4-4f47-b820-635a9603a264",
@@ -149,7 +114,7 @@
       },
       {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fgujcal.png?alt=media&token=50636409-9c13-4804-b1e7-b3eeb0c6fb30",
-        "appLink": "https://play.google.com/store/apps/details?id=secure.newyear.calender",
+        "appLink": "https://play.google.com/store/apps/details?id=gujarati.newyear.calender",
         "appName": "Gujarati Calendar"
       },
       {
@@ -168,11 +133,6 @@
         "appName": "Friends Status"
       },
       {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fmitronmaker.png?alt=media&token=596d8236-aecd-438f-8bfe-6ec363a5ded0",
-        "appLink": "https://play.google.com/store/apps/details?id=com.mitron.videomaker",
-        "appName": "Mitron Video Maker"
-      },
-      {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fnewjokes.png?alt=media&token=0dee8b8b-cee0-479f-bdc9-3dcb893bc569",
         "appLink": "https://play.google.com/store/apps/details?id=shayari.funny.newhindi.jokes",
         "appName": "New Hindi Jokes"
@@ -181,11 +141,6 @@
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Flovestatus.png?alt=media&token=a32defe7-34d6-4cb6-b216-d04f224a4843",
         "appLink": "https://play.google.com/store/apps/details?id=status.lovestatus",
         "appName": "Love Status"
-      },
-      {
-        "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fphotocollage.png?alt=media&token=1da60c80-26ec-4d0e-9b07-bfb141358f0b",
-        "appLink": "https://play.google.com/store/apps/details?id=com.pipphotogrid.photocollages",
-        "appName": "Photo Collage"
       },
       {
         "imageUrl":"https://firebasestorage.googleapis.com/v0/b/video-status-b1c9b.appspot.com/o/applogo%2Fgardenwallpaper.png?alt=media&token=76dd3c7c-defd-4c25-b121-433de6febd8f",
